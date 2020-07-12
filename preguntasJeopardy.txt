@@ -1,0 +1,25 @@
+Ciencia;0;100;¿En qué conjunto de números no existen los negativos?;Números naturales;Números reales;Números enteros
+Ciencia;2;200;¿Qué es un agujero negro?;Una fuente astronómica de energía electromagnética;Un fenómeno físico causado por el reflejo de la luz sobre la materia;Una región espaciotemporal con un campo gravitario que absorbe las partículas
+Ciencia;1;300;¿Qué superficie refleja mayor cantidad de luz?;El océano;La nieve;Los Bosques
+Ciencia;1;400;¿Quién descubrió el electrocardiograma?;Ivan Capuz;Willem Einthoven;Adolf Hitler
+Ciencia;2;500;¿Quién descubrió las primeras vacunas efectivas contra la fiebre amarilla?;Selman Abraham Waksman;Barbara McClintock;Max Theiler
+Historia;2;100;¿Cómo murió Mahatma Gandhi?;Finalizó sus días anciano, víctima de una enfermedad;Fue asesinado por un integrista indio ;En el frente en la Guerra de India-Pakistán
+Historia;1;200;¿En qué año se descubrieron los primero restos de Hombres de Neandertal?;1976;1848;1896
+Historia;0;300;¿Qué país fue el primero del mundo en permitir la adopción por parejas del mismo sexo?;España;Alemania;Holanda
+Historia;2;400;¿Quién fue el padre de Alejandro Magno?;Carlomagno;Séneca;Filipo II
+Historia;0;500;¿Quién fue el unico nombrado como Reichmarschall durante el III Reich?;Hermann Wilhelm Göring;Heinrich Himmler;Erwin Rommel
+Arte;1;100;¿A qué misterioso personaje roba Bilbo el Anillo de Poder en 'El Hobbit'?;Aragorn;Gollum;Gandalf
+Arte;0;200;¿Quién escribió Piripi Calzaslargas?;Astrid Lindgren;Hercules Poirot;Arturo Pérez Reverte
+Arte;2;300;¿Cuál es la obra cumbre de la Arquitectura Bizantina?;La Iglesia de Santos Sergio y Baco;La Iglesia de la Santa Paz;La Iglesia de Santa Sofía
+Arte;0;400;¿Quién escribió Fausto?;Goethe;Michael Ende;Ray BradBury
+Arte;1;500;¿Cuántos actos tiene la obra La Casa de Bernarda Alba?;Cinco;Tres;Uno
+Deporte;1;100;¿A qué juega Beckham?;Golf;fútbol;Cricket
+Deporte;0;200;¿Quién fue el ganador de la Vuelta a España 2012?;Alberto Contador;Joaquin Purito;Bradley Wiggins
+Deporte;1;300;¿A qué juega Fernando Alonso?;Baloncesto;Fórmula 1;Fútbol
+Deporte;1;400;¿Dónde está La Bombonera, estadio de fútbol?;China;Argentina;España
+Deporte;0;500;En un partido de ping-pong ¿Qué ocurre si en el saque, la pelota toca la red?;Se repite;Se repite hasta dos veces;Se descuenta un punto
+Cine;1;100;¿Quien es Blanca Romero en la serie Física o Química?;Olimpia, la Directora;Irene, la profesora de Filosofía;Celia, la Jefa de Estudios
+Cine;1;200;¿Qué pareja de actores españoles interpreta a Elena y Ricardo, los protagonistas de la película Los Girasoles Ciegos?;Elena Furiase y Benicio del Toro;Maribel Verdú y Javier Cámara;Asunción Balaguer y Juan Diego Botto
+Cine;2;300;¿Qué escritor es autor de la novela 'El Padrino'?;Umberto Eco;Thomas Harris;Mario Puzo
+Cine;1;400;¿Cuál es la profesión de Melvin Udall, el protagonista de 'Mejor ... imposible'?;Repartidor de periódicos;Escritor novela romántica;Pescadero
+Cine;1;500;¿Cuál fue la primera película argelina en ganar un Oscar?;Q;Z;X
